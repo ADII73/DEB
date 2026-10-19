@@ -1,0 +1,6 @@
+id,name,department,salary
+1,Aditya,Engineering,30000
+2,Priya,Finance,40000
+3,Rahul,HR,25000
+4,,Sales,20000
+5,Neha,Finance,-500
